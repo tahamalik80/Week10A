@@ -1,0 +1,921 @@
+book,index,negative,positive,sentiment
+Sense & Sensibility,0,16,32,16
+Sense & Sensibility,1,19,53,34
+Sense & Sensibility,2,12,31,19
+Sense & Sensibility,3,15,31,16
+Sense & Sensibility,4,16,34,18
+Sense & Sensibility,5,16,51,35
+Sense & Sensibility,6,24,40,16
+Sense & Sensibility,7,23,51,28
+Sense & Sensibility,8,30,40,10
+Sense & Sensibility,9,15,19,4
+Sense & Sensibility,10,12,32,20
+Sense & Sensibility,11,14,40,26
+Sense & Sensibility,12,22,48,26
+Sense & Sensibility,13,22,42,20
+Sense & Sensibility,14,36,24,-12
+Sense & Sensibility,15,23,31,8
+Sense & Sensibility,16,15,38,23
+Sense & Sensibility,17,15,47,32
+Sense & Sensibility,18,19,53,34
+Sense & Sensibility,19,31,38,7
+Sense & Sensibility,20,25,29,4
+Sense & Sensibility,21,24,38,14
+Sense & Sensibility,22,25,28,3
+Sense & Sensibility,23,10,18,8
+Sense & Sensibility,24,15,22,7
+Sense & Sensibility,25,18,12,-6
+Sense & Sensibility,26,14,19,5
+Sense & Sensibility,27,20,30,10
+Sense & Sensibility,28,25,27,2
+Sense & Sensibility,29,13,45,32
+Sense & Sensibility,30,14,17,3
+Sense & Sensibility,31,35,30,-5
+Sense & Sensibility,32,34,24,-10
+Sense & Sensibility,33,35,26,-9
+Sense & Sensibility,34,16,22,6
+Sense & Sensibility,35,16,26,10
+Sense & Sensibility,36,17,39,22
+Sense & Sensibility,37,16,34,18
+Sense & Sensibility,38,20,27,7
+Sense & Sensibility,39,30,53,23
+Sense & Sensibility,40,16,15,-1
+Sense & Sensibility,41,28,40,12
+Sense & Sensibility,42,33,33,0
+Sense & Sensibility,43,3,26,23
+Sense & Sensibility,44,15,17,2
+Sense & Sensibility,45,20,21,1
+Sense & Sensibility,46,27,26,-1
+Sense & Sensibility,47,14,28,14
+Sense & Sensibility,48,9,48,39
+Sense & Sensibility,49,31,48,17
+Sense & Sensibility,50,30,33,3
+Sense & Sensibility,51,21,48,27
+Sense & Sensibility,52,28,26,-2
+Sense & Sensibility,53,19,25,6
+Sense & Sensibility,54,26,32,6
+Sense & Sensibility,55,27,23,-4
+Sense & Sensibility,56,45,26,-19
+Sense & Sensibility,57,25,41,16
+Sense & Sensibility,58,24,33,9
+Sense & Sensibility,59,28,37,9
+Sense & Sensibility,60,21,31,10
+Sense & Sensibility,61,23,23,0
+Sense & Sensibility,62,31,42,11
+Sense & Sensibility,63,31,30,-1
+Sense & Sensibility,64,28,33,5
+Sense & Sensibility,65,23,41,18
+Sense & Sensibility,66,21,27,6
+Sense & Sensibility,67,30,19,-11
+Sense & Sensibility,68,14,19,5
+Sense & Sensibility,69,18,15,-3
+Sense & Sensibility,70,28,23,-5
+Sense & Sensibility,71,21,22,1
+Sense & Sensibility,72,33,24,-9
+Sense & Sensibility,73,29,21,-8
+Sense & Sensibility,74,36,15,-21
+Sense & Sensibility,75,42,28,-14
+Sense & Sensibility,76,20,12,-8
+Sense & Sensibility,77,36,28,-8
+Sense & Sensibility,78,29,21,-8
+Sense & Sensibility,79,25,43,18
+Sense & Sensibility,80,20,27,7
+Sense & Sensibility,81,13,18,5
+Sense & Sensibility,82,22,33,11
+Sense & Sensibility,83,34,37,3
+Sense & Sensibility,84,29,36,7
+Sense & Sensibility,85,35,37,2
+Sense & Sensibility,86,34,23,-11
+Sense & Sensibility,87,38,16,-22
+Sense & Sensibility,88,28,38,10
+Sense & Sensibility,89,15,22,7
+Sense & Sensibility,90,21,25,4
+Sense & Sensibility,91,16,36,20
+Sense & Sensibility,92,14,32,18
+Sense & Sensibility,93,16,35,19
+Sense & Sensibility,94,12,45,33
+Sense & Sensibility,95,18,37,19
+Sense & Sensibility,96,30,37,7
+Sense & Sensibility,97,25,29,4
+Sense & Sensibility,98,19,42,23
+Sense & Sensibility,99,20,39,19
+Sense & Sensibility,100,20,37,17
+Sense & Sensibility,101,16,23,7
+Sense & Sensibility,102,19,27,8
+Sense & Sensibility,103,15,35,20
+Sense & Sensibility,104,14,40,26
+Sense & Sensibility,105,15,17,2
+Sense & Sensibility,106,40,31,-9
+Sense & Sensibility,107,20,31,11
+Sense & Sensibility,108,34,22,-12
+Sense & Sensibility,109,29,45,16
+Sense & Sensibility,110,24,25,1
+Sense & Sensibility,111,19,29,10
+Sense & Sensibility,112,20,17,-3
+Sense & Sensibility,113,17,21,4
+Sense & Sensibility,114,16,52,36
+Sense & Sensibility,115,24,23,-1
+Sense & Sensibility,116,22,40,18
+Sense & Sensibility,117,10,36,26
+Sense & Sensibility,118,20,29,9
+Sense & Sensibility,119,11,31,20
+Sense & Sensibility,120,8,22,14
+Sense & Sensibility,121,21,28,7
+Sense & Sensibility,122,16,28,12
+Sense & Sensibility,123,33,33,0
+Sense & Sensibility,124,13,29,16
+Sense & Sensibility,125,17,48,31
+Sense & Sensibility,126,43,29,-14
+Sense & Sensibility,127,32,29,-3
+Sense & Sensibility,128,40,20,-20
+Sense & Sensibility,129,42,58,16
+Sense & Sensibility,130,32,23,-9
+Sense & Sensibility,131,15,22,7
+Sense & Sensibility,132,41,36,-5
+Sense & Sensibility,133,38,31,-7
+Sense & Sensibility,134,34,29,-5
+Sense & Sensibility,135,25,27,2
+Sense & Sensibility,136,41,22,-19
+Sense & Sensibility,137,29,28,-1
+Sense & Sensibility,138,29,37,8
+Sense & Sensibility,139,14,59,45
+Sense & Sensibility,140,18,27,9
+Sense & Sensibility,141,17,43,26
+Sense & Sensibility,142,30,40,10
+Sense & Sensibility,143,38,36,-2
+Sense & Sensibility,144,20,35,15
+Sense & Sensibility,145,38,26,-12
+Sense & Sensibility,146,21,15,-6
+Sense & Sensibility,147,27,21,-6
+Sense & Sensibility,148,17,13,-4
+Sense & Sensibility,149,22,25,3
+Sense & Sensibility,150,18,46,28
+Sense & Sensibility,151,23,24,1
+Sense & Sensibility,152,24,29,5
+Sense & Sensibility,153,33,38,5
+Sense & Sensibility,154,26,29,3
+Sense & Sensibility,155,17,29,12
+Sense & Sensibility,156,12,45,33
+Sense & Sensibility,157,18,35,17
+Pride & Prejudice,0,7,21,14
+Pride & Prejudice,1,20,19,-1
+Pride & Prejudice,2,16,20,4
+Pride & Prejudice,3,19,31,12
+Pride & Prejudice,4,23,47,24
+Pride & Prejudice,5,15,49,34
+Pride & Prejudice,6,18,46,28
+Pride & Prejudice,7,23,33,10
+Pride & Prejudice,8,17,48,31
+Pride & Prejudice,9,22,40,18
+Pride & Prejudice,10,24,26,2
+Pride & Prejudice,11,13,32,19
+Pride & Prejudice,12,16,17,1
+Pride & Prejudice,13,31,29,-2
+Pride & Prejudice,14,33,19,-14
+Pride & Prejudice,15,14,27,13
+Pride & Prejudice,16,18,24,6
+Pride & Prejudice,17,23,23,0
+Pride & Prejudice,18,8,34,26
+Pride & Prejudice,19,17,36,19
+Pride & Prejudice,20,15,24,9
+Pride & Prejudice,21,15,29,14
+Pride & Prejudice,22,26,27,1
+Pride & Prejudice,23,18,33,15
+Pride & Prejudice,24,35,35,0
+Pride & Prejudice,25,39,32,-7
+Pride & Prejudice,26,20,26,6
+Pride & Prejudice,27,23,36,13
+Pride & Prejudice,28,17,46,29
+Pride & Prejudice,29,15,37,22
+Pride & Prejudice,30,18,41,23
+Pride & Prejudice,31,21,32,11
+Pride & Prejudice,32,12,34,22
+Pride & Prejudice,33,17,30,13
+Pride & Prejudice,34,29,18,-11
+Pride & Prejudice,35,19,58,39
+Pride & Prejudice,36,26,32,6
+Pride & Prejudice,37,16,28,12
+Pride & Prejudice,38,32,27,-5
+Pride & Prejudice,39,15,30,15
+Pride & Prejudice,40,19,16,-3
+Pride & Prejudice,41,35,44,9
+Pride & Prejudice,42,13,48,35
+Pride & Prejudice,43,27,35,8
+Pride & Prejudice,44,25,33,8
+Pride & Prejudice,45,21,37,16
+Pride & Prejudice,46,28,43,15
+Pride & Prejudice,47,20,32,12
+Pride & Prejudice,48,30,25,-5
+Pride & Prejudice,49,39,29,-10
+Pride & Prejudice,50,22,30,8
+Pride & Prejudice,51,25,34,9
+Pride & Prejudice,52,24,52,28
+Pride & Prejudice,53,16,45,29
+Pride & Prejudice,54,24,33,9
+Pride & Prejudice,55,35,34,-1
+Pride & Prejudice,56,19,29,10
+Pride & Prejudice,57,32,46,14
+Pride & Prejudice,58,25,40,15
+Pride & Prejudice,59,22,34,12
+Pride & Prejudice,60,12,25,13
+Pride & Prejudice,61,22,37,15
+Pride & Prejudice,62,27,28,1
+Pride & Prejudice,63,30,44,14
+Pride & Prejudice,64,24,37,13
+Pride & Prejudice,65,18,40,22
+Pride & Prejudice,66,16,33,17
+Pride & Prejudice,67,17,26,9
+Pride & Prejudice,68,14,42,28
+Pride & Prejudice,69,12,23,11
+Pride & Prejudice,70,10,25,15
+Pride & Prejudice,71,19,26,7
+Pride & Prejudice,72,6,33,27
+Pride & Prejudice,73,21,26,5
+Pride & Prejudice,74,12,22,10
+Pride & Prejudice,75,9,27,18
+Pride & Prejudice,76,18,27,9
+Pride & Prejudice,77,15,32,17
+Pride & Prejudice,78,29,24,-5
+Pride & Prejudice,79,36,27,-9
+Pride & Prejudice,80,42,20,-22
+Pride & Prejudice,81,40,26,-14
+Pride & Prejudice,82,29,19,-10
+Pride & Prejudice,83,37,34,-3
+Pride & Prejudice,84,35,29,-6
+Pride & Prejudice,85,34,33,-1
+Pride & Prejudice,86,37,35,-2
+Pride & Prejudice,87,33,20,-13
+Pride & Prejudice,88,29,26,-3
+Pride & Prejudice,89,28,51,23
+Pride & Prejudice,90,16,30,14
+Pride & Prejudice,91,16,38,22
+Pride & Prejudice,92,17,21,4
+Pride & Prejudice,93,35,33,-2
+Pride & Prejudice,94,27,36,9
+Pride & Prejudice,95,27,31,4
+Pride & Prejudice,96,55,25,-30
+Pride & Prejudice,97,21,33,12
+Pride & Prejudice,98,40,40,0
+Pride & Prejudice,99,26,38,12
+Pride & Prejudice,100,23,36,13
+Pride & Prejudice,101,12,36,24
+Pride & Prejudice,102,10,46,36
+Pride & Prejudice,103,20,35,15
+Pride & Prejudice,104,21,31,10
+Pride & Prejudice,105,16,29,13
+Pride & Prejudice,106,11,31,20
+Pride & Prejudice,107,23,39,16
+Pride & Prejudice,108,23,36,13
+Pride & Prejudice,109,33,42,9
+Pride & Prejudice,110,41,22,-19
+Pride & Prejudice,111,19,28,9
+Pride & Prejudice,112,44,23,-21
+Pride & Prejudice,113,31,29,-2
+Pride & Prejudice,114,50,26,-24
+Pride & Prejudice,115,21,18,-3
+Pride & Prejudice,116,22,30,8
+Pride & Prejudice,117,13,29,16
+Pride & Prejudice,118,32,21,-11
+Pride & Prejudice,119,27,22,-5
+Pride & Prejudice,120,20,20,0
+Pride & Prejudice,121,19,27,8
+Pride & Prejudice,122,29,17,-12
+Pride & Prejudice,123,15,22,7
+Pride & Prejudice,124,7,23,16
+Pride & Prejudice,125,18,27,9
+Pride & Prejudice,126,16,42,26
+Pride & Prejudice,127,20,28,8
+Pride & Prejudice,128,21,38,17
+Pride & Prejudice,129,15,28,13
+Pride & Prejudice,130,21,44,23
+Pride & Prejudice,131,13,18,5
+Pride & Prejudice,132,23,16,-7
+Pride & Prejudice,133,15,19,4
+Pride & Prejudice,134,32,31,-1
+Pride & Prejudice,135,13,35,22
+Pride & Prejudice,136,10,21,11
+Pride & Prejudice,137,20,17,-3
+Pride & Prejudice,138,19,37,18
+Pride & Prejudice,139,28,20,-8
+Pride & Prejudice,140,17,39,22
+Pride & Prejudice,141,22,24,2
+Pride & Prejudice,142,12,41,29
+Pride & Prejudice,143,21,17,-4
+Pride & Prejudice,144,14,49,35
+Pride & Prejudice,145,16,29,13
+Pride & Prejudice,146,8,17,9
+Pride & Prejudice,147,24,14,-10
+Pride & Prejudice,148,18,17,-1
+Pride & Prejudice,149,30,23,-7
+Pride & Prejudice,150,17,19,2
+Pride & Prejudice,151,21,29,8
+Pride & Prejudice,152,37,22,-15
+Pride & Prejudice,153,21,33,12
+Pride & Prejudice,154,35,29,-6
+Pride & Prejudice,155,21,23,2
+Pride & Prejudice,156,22,29,7
+Pride & Prejudice,157,26,28,2
+Pride & Prejudice,158,21,50,29
+Pride & Prejudice,159,19,37,18
+Pride & Prejudice,160,19,40,21
+Pride & Prejudice,161,25,52,27
+Pride & Prejudice,162,23,35,12
+Mansfield Park,0,29,35,6
+Mansfield Park,1,20,41,21
+Mansfield Park,2,28,35,7
+Mansfield Park,3,29,48,19
+Mansfield Park,4,42,42,0
+Mansfield Park,5,21,34,13
+Mansfield Park,6,21,40,19
+Mansfield Park,7,27,50,23
+Mansfield Park,8,24,30,6
+Mansfield Park,9,14,32,18
+Mansfield Park,10,20,30,10
+Mansfield Park,11,22,38,16
+Mansfield Park,12,36,28,-8
+Mansfield Park,13,25,31,6
+Mansfield Park,14,20,53,33
+Mansfield Park,15,22,54,32
+Mansfield Park,16,32,45,13
+Mansfield Park,17,19,50,31
+Mansfield Park,18,18,52,34
+Mansfield Park,19,29,33,4
+Mansfield Park,20,25,28,3
+Mansfield Park,21,17,41,24
+Mansfield Park,22,20,32,12
+Mansfield Park,23,13,22,9
+Mansfield Park,24,11,34,23
+Mansfield Park,25,27,51,24
+Mansfield Park,26,23,48,25
+Mansfield Park,27,24,48,24
+Mansfield Park,28,26,40,14
+Mansfield Park,29,18,21,3
+Mansfield Park,30,30,29,-1
+Mansfield Park,31,24,22,-2
+Mansfield Park,32,16,39,23
+Mansfield Park,33,24,42,18
+Mansfield Park,34,17,35,18
+Mansfield Park,35,29,28,-1
+Mansfield Park,36,27,22,-5
+Mansfield Park,37,10,34,24
+Mansfield Park,38,22,24,2
+Mansfield Park,39,24,22,-2
+Mansfield Park,40,17,24,7
+Mansfield Park,41,35,19,-16
+Mansfield Park,42,20,29,9
+Mansfield Park,43,20,46,26
+Mansfield Park,44,24,30,6
+Mansfield Park,45,37,38,1
+Mansfield Park,46,29,40,11
+Mansfield Park,47,31,36,5
+Mansfield Park,48,15,26,11
+Mansfield Park,49,23,30,7
+Mansfield Park,50,26,31,5
+Mansfield Park,51,24,27,3
+Mansfield Park,52,22,20,-2
+Mansfield Park,53,21,29,8
+Mansfield Park,54,30,31,1
+Mansfield Park,55,34,37,3
+Mansfield Park,56,36,21,-15
+Mansfield Park,57,16,32,16
+Mansfield Park,58,25,30,5
+Mansfield Park,59,24,28,4
+Mansfield Park,60,34,22,-12
+Mansfield Park,61,38,23,-15
+Mansfield Park,62,39,28,-11
+Mansfield Park,63,29,27,-2
+Mansfield Park,64,31,36,5
+Mansfield Park,65,34,49,15
+Mansfield Park,66,24,40,16
+Mansfield Park,67,31,29,-2
+Mansfield Park,68,21,31,10
+Mansfield Park,69,19,38,19
+Mansfield Park,70,26,21,-5
+Mansfield Park,71,44,25,-19
+Mansfield Park,72,24,45,21
+Mansfield Park,73,25,21,-4
+Mansfield Park,74,25,36,11
+Mansfield Park,75,18,47,29
+Mansfield Park,76,41,40,-1
+Mansfield Park,77,27,32,5
+Mansfield Park,78,28,28,0
+Mansfield Park,79,14,35,21
+Mansfield Park,80,28,33,5
+Mansfield Park,81,32,50,18
+Mansfield Park,82,17,35,18
+Mansfield Park,83,25,27,2
+Mansfield Park,84,21,39,18
+Mansfield Park,85,28,36,8
+Mansfield Park,86,27,34,7
+Mansfield Park,87,11,27,16
+Mansfield Park,88,11,22,11
+Mansfield Park,89,12,31,19
+Mansfield Park,90,13,40,27
+Mansfield Park,91,28,38,10
+Mansfield Park,92,18,24,6
+Mansfield Park,93,11,57,46
+Mansfield Park,94,13,44,31
+Mansfield Park,95,25,57,32
+Mansfield Park,96,20,40,20
+Mansfield Park,97,21,39,18
+Mansfield Park,98,21,30,9
+Mansfield Park,99,17,48,31
+Mansfield Park,100,13,25,12
+Mansfield Park,101,20,29,9
+Mansfield Park,102,15,29,14
+Mansfield Park,103,22,34,12
+Mansfield Park,104,24,38,14
+Mansfield Park,105,27,34,7
+Mansfield Park,106,17,32,15
+Mansfield Park,107,28,37,9
+Mansfield Park,108,19,38,19
+Mansfield Park,109,18,25,7
+Mansfield Park,110,26,52,26
+Mansfield Park,111,17,48,31
+Mansfield Park,112,12,45,33
+Mansfield Park,113,27,42,15
+Mansfield Park,114,23,28,5
+Mansfield Park,115,12,29,17
+Mansfield Park,116,32,29,-3
+Mansfield Park,117,24,25,1
+Mansfield Park,118,18,34,16
+Mansfield Park,119,14,60,46
+Mansfield Park,120,14,41,27
+Mansfield Park,121,26,32,6
+Mansfield Park,122,27,32,5
+Mansfield Park,123,30,39,9
+Mansfield Park,124,15,18,3
+Mansfield Park,125,29,24,-5
+Mansfield Park,126,15,26,11
+Mansfield Park,127,19,32,13
+Mansfield Park,128,29,21,-8
+Mansfield Park,129,43,35,-8
+Mansfield Park,130,31,33,2
+Mansfield Park,131,18,31,13
+Mansfield Park,132,32,62,30
+Mansfield Park,133,29,55,26
+Mansfield Park,134,26,38,12
+Mansfield Park,135,15,35,20
+Mansfield Park,136,14,49,35
+Mansfield Park,137,14,35,21
+Mansfield Park,138,26,43,17
+Mansfield Park,139,23,38,15
+Mansfield Park,140,16,25,9
+Mansfield Park,141,16,55,39
+Mansfield Park,142,23,47,24
+Mansfield Park,143,20,29,9
+Mansfield Park,144,19,36,17
+Mansfield Park,145,39,34,-5
+Mansfield Park,146,14,31,17
+Mansfield Park,147,31,31,0
+Mansfield Park,148,26,21,-5
+Mansfield Park,149,35,34,-1
+Mansfield Park,150,21,41,20
+Mansfield Park,151,26,38,12
+Mansfield Park,152,20,37,17
+Mansfield Park,153,16,35,19
+Mansfield Park,154,15,29,14
+Mansfield Park,155,27,24,-3
+Mansfield Park,156,20,37,17
+Mansfield Park,157,39,23,-16
+Mansfield Park,158,25,38,13
+Mansfield Park,159,35,38,3
+Mansfield Park,160,24,47,23
+Mansfield Park,161,36,55,19
+Mansfield Park,162,22,30,8
+Mansfield Park,163,28,36,8
+Mansfield Park,164,17,34,17
+Mansfield Park,165,18,40,22
+Mansfield Park,166,12,31,19
+Mansfield Park,167,22,33,11
+Mansfield Park,168,20,37,17
+Mansfield Park,169,31,28,-3
+Mansfield Park,170,24,47,23
+Mansfield Park,171,45,51,6
+Mansfield Park,172,43,32,-11
+Mansfield Park,173,43,28,-15
+Mansfield Park,174,40,31,-9
+Mansfield Park,175,48,35,-13
+Mansfield Park,176,42,32,-10
+Mansfield Park,177,36,17,-19
+Mansfield Park,178,37,20,-17
+Mansfield Park,179,60,26,-34
+Mansfield Park,180,21,37,16
+Mansfield Park,181,35,36,1
+Mansfield Park,182,27,25,-2
+Mansfield Park,183,39,14,-25
+Mansfield Park,184,34,28,-6
+Mansfield Park,185,42,30,-12
+Mansfield Park,186,32,48,16
+Mansfield Park,187,44,42,-2
+Mansfield Park,188,38,43,5
+Mansfield Park,189,44,41,-3
+Mansfield Park,190,32,74,42
+Mansfield Park,191,21,55,34
+Emma,0,31,43,12
+Emma,1,28,33,5
+Emma,2,30,35,5
+Emma,3,27,51,24
+Emma,4,23,46,23
+Emma,5,25,50,25
+Emma,6,25,47,22
+Emma,7,27,63,36
+Emma,8,21,47,26
+Emma,9,11,40,29
+Emma,10,19,35,16
+Emma,11,29,36,7
+Emma,12,14,55,41
+Emma,13,22,39,17
+Emma,14,32,51,19
+Emma,15,14,50,36
+Emma,16,14,44,30
+Emma,17,16,56,40
+Emma,18,13,30,17
+Emma,19,28,38,10
+Emma,20,25,37,12
+Emma,21,19,30,11
+Emma,22,12,34,22
+Emma,23,18,25,7
+Emma,24,24,46,22
+Emma,25,34,49,15
+Emma,26,27,33,6
+Emma,27,19,44,25
+Emma,28,17,32,15
+Emma,29,18,36,18
+Emma,30,14,37,23
+Emma,31,12,38,26
+Emma,32,17,16,-1
+Emma,33,17,31,14
+Emma,34,12,25,13
+Emma,35,35,50,15
+Emma,36,16,26,10
+Emma,37,19,26,7
+Emma,38,35,51,16
+Emma,39,22,35,13
+Emma,40,15,37,22
+Emma,41,24,31,7
+Emma,42,25,35,10
+Emma,43,19,43,24
+Emma,44,18,22,4
+Emma,45,30,41,11
+Emma,46,22,46,24
+Emma,47,27,25,-2
+Emma,48,13,47,34
+Emma,49,14,33,19
+Emma,50,30,27,-3
+Emma,51,41,36,-5
+Emma,52,20,28,8
+Emma,53,34,36,2
+Emma,54,47,40,-7
+Emma,55,40,38,-2
+Emma,56,36,39,3
+Emma,57,28,41,13
+Emma,58,26,40,14
+Emma,59,33,25,-8
+Emma,60,20,39,19
+Emma,61,18,49,31
+Emma,62,24,28,4
+Emma,63,18,44,26
+Emma,64,17,28,11
+Emma,65,31,32,1
+Emma,66,20,46,26
+Emma,67,25,52,27
+Emma,68,24,35,11
+Emma,69,22,45,23
+Emma,70,17,32,15
+Emma,71,29,32,3
+Emma,72,23,27,4
+Emma,73,29,44,15
+Emma,74,23,55,32
+Emma,75,24,26,2
+Emma,76,25,36,11
+Emma,77,7,42,35
+Emma,78,25,45,20
+Emma,79,16,31,15
+Emma,80,8,40,32
+Emma,81,26,35,9
+Emma,82,21,34,13
+Emma,83,23,33,10
+Emma,84,20,49,29
+Emma,85,19,31,12
+Emma,86,36,31,-5
+Emma,87,23,43,20
+Emma,88,16,29,13
+Emma,89,20,36,16
+Emma,90,20,45,25
+Emma,91,25,29,4
+Emma,92,22,28,6
+Emma,93,19,34,15
+Emma,94,29,29,0
+Emma,95,15,29,14
+Emma,96,22,19,-3
+Emma,97,21,34,13
+Emma,98,22,25,3
+Emma,99,16,32,16
+Emma,100,20,18,-2
+Emma,101,17,21,4
+Emma,102,23,21,-2
+Emma,103,29,40,11
+Emma,104,31,24,-7
+Emma,105,27,27,0
+Emma,106,25,38,13
+Emma,107,31,21,-10
+Emma,108,31,30,-1
+Emma,109,24,49,25
+Emma,110,28,45,17
+Emma,111,23,50,27
+Emma,112,21,65,44
+Emma,113,16,45,29
+Emma,114,23,44,21
+Emma,115,17,31,14
+Emma,116,32,48,16
+Emma,117,30,44,14
+Emma,118,26,35,9
+Emma,119,21,30,9
+Emma,120,22,35,13
+Emma,121,21,17,-4
+Emma,122,17,27,10
+Emma,123,20,27,7
+Emma,124,10,19,9
+Emma,125,25,26,1
+Emma,126,14,58,44
+Emma,127,15,27,12
+Emma,128,17,30,13
+Emma,129,24,40,16
+Emma,130,10,24,14
+Emma,131,25,39,14
+Emma,132,10,32,22
+Emma,133,22,31,9
+Emma,134,21,47,26
+Emma,135,20,40,20
+Emma,136,16,46,30
+Emma,137,26,32,6
+Emma,138,35,35,0
+Emma,139,30,31,1
+Emma,140,14,22,8
+Emma,141,13,26,13
+Emma,142,18,34,16
+Emma,143,25,18,-7
+Emma,144,21,19,-2
+Emma,145,33,25,-8
+Emma,146,24,31,7
+Emma,147,27,29,2
+Emma,148,19,33,14
+Emma,149,20,58,38
+Emma,150,21,37,16
+Emma,151,34,30,-4
+Emma,152,17,43,26
+Emma,153,21,41,20
+Emma,154,29,20,-9
+Emma,155,20,29,9
+Emma,156,21,31,10
+Emma,157,32,32,0
+Emma,158,43,42,-1
+Emma,159,13,30,17
+Emma,160,20,15,-5
+Emma,161,19,35,16
+Emma,162,48,37,-11
+Emma,163,36,25,-11
+Emma,164,21,15,-6
+Emma,165,19,28,9
+Emma,166,30,27,-3
+Emma,167,21,30,9
+Emma,168,47,30,-17
+Emma,169,28,22,-6
+Emma,170,25,27,2
+Emma,171,23,40,17
+Emma,172,31,20,-11
+Emma,173,35,36,1
+Emma,174,23,39,16
+Emma,175,33,44,11
+Emma,176,38,29,-9
+Emma,177,19,27,8
+Emma,178,23,38,15
+Emma,179,17,41,24
+Emma,180,37,37,0
+Emma,181,32,35,3
+Emma,182,30,43,13
+Emma,183,49,38,-11
+Emma,184,48,28,-20
+Emma,185,22,37,15
+Emma,186,35,30,-5
+Emma,187,25,42,17
+Emma,188,30,32,2
+Emma,189,23,40,17
+Emma,190,20,31,11
+Emma,191,22,25,3
+Emma,192,24,30,6
+Emma,193,28,34,6
+Emma,194,22,36,14
+Emma,195,14,50,36
+Emma,196,23,23,0
+Emma,197,28,34,6
+Emma,198,14,41,27
+Emma,199,27,29,2
+Emma,200,26,35,9
+Emma,201,23,43,20
+Emma,202,28,27,-1
+Northanger Abbey,0,27,32,5
+Northanger Abbey,1,22,45,23
+Northanger Abbey,2,25,39,14
+Northanger Abbey,3,22,52,30
+Northanger Abbey,4,15,30,15
+Northanger Abbey,5,5,28,23
+Northanger Abbey,6,15,28,13
+Northanger Abbey,7,20,32,12
+Northanger Abbey,8,16,48,32
+Northanger Abbey,9,16,53,37
+Northanger Abbey,10,25,31,6
+Northanger Abbey,11,23,30,7
+Northanger Abbey,12,20,26,6
+Northanger Abbey,13,23,24,1
+Northanger Abbey,14,19,22,3
+Northanger Abbey,15,24,24,0
+Northanger Abbey,16,9,52,43
+Northanger Abbey,17,24,31,7
+Northanger Abbey,18,27,49,22
+Northanger Abbey,19,21,26,5
+Northanger Abbey,20,25,28,3
+Northanger Abbey,21,22,38,16
+Northanger Abbey,22,13,33,20
+Northanger Abbey,23,43,35,-8
+Northanger Abbey,24,18,27,9
+Northanger Abbey,25,23,20,-3
+Northanger Abbey,26,27,22,-5
+Northanger Abbey,27,10,29,19
+Northanger Abbey,28,15,21,6
+Northanger Abbey,29,15,34,19
+Northanger Abbey,30,22,25,3
+Northanger Abbey,31,12,16,4
+Northanger Abbey,32,28,30,2
+Northanger Abbey,33,28,29,1
+Northanger Abbey,34,37,28,-9
+Northanger Abbey,35,19,25,6
+Northanger Abbey,36,31,33,2
+Northanger Abbey,37,33,31,-2
+Northanger Abbey,38,39,36,-3
+Northanger Abbey,39,20,33,13
+Northanger Abbey,40,33,36,3
+Northanger Abbey,41,26,46,20
+Northanger Abbey,42,40,47,7
+Northanger Abbey,43,31,23,-8
+Northanger Abbey,44,24,35,11
+Northanger Abbey,45,17,42,25
+Northanger Abbey,46,19,39,20
+Northanger Abbey,47,19,52,33
+Northanger Abbey,48,22,54,32
+Northanger Abbey,49,29,30,1
+Northanger Abbey,50,20,22,2
+Northanger Abbey,51,22,35,13
+Northanger Abbey,52,24,43,19
+Northanger Abbey,53,15,47,32
+Northanger Abbey,54,22,29,7
+Northanger Abbey,55,15,26,11
+Northanger Abbey,56,39,37,-2
+Northanger Abbey,57,25,17,-8
+Northanger Abbey,58,27,30,3
+Northanger Abbey,59,39,27,-12
+Northanger Abbey,60,20,19,-1
+Northanger Abbey,61,32,24,-8
+Northanger Abbey,62,27,27,0
+Northanger Abbey,63,51,31,-20
+Northanger Abbey,64,40,36,-4
+Northanger Abbey,65,48,25,-23
+Northanger Abbey,66,28,33,5
+Northanger Abbey,67,11,45,34
+Northanger Abbey,68,29,40,11
+Northanger Abbey,69,38,41,3
+Northanger Abbey,70,21,37,16
+Northanger Abbey,71,24,38,14
+Northanger Abbey,72,51,23,-28
+Northanger Abbey,73,35,24,-11
+Northanger Abbey,74,35,32,-3
+Northanger Abbey,75,14,37,23
+Northanger Abbey,76,39,22,-17
+Northanger Abbey,77,31,37,6
+Northanger Abbey,78,28,21,-7
+Northanger Abbey,79,21,27,6
+Northanger Abbey,80,23,23,0
+Northanger Abbey,81,21,22,1
+Northanger Abbey,82,19,48,29
+Northanger Abbey,83,21,33,12
+Northanger Abbey,84,32,24,-8
+Northanger Abbey,85,27,35,8
+Northanger Abbey,86,28,29,1
+Northanger Abbey,87,26,25,-1
+Northanger Abbey,88,35,35,0
+Northanger Abbey,89,33,27,-6
+Northanger Abbey,90,34,50,16
+Northanger Abbey,91,33,40,7
+Northanger Abbey,92,23,44,21
+Northanger Abbey,93,23,32,9
+Northanger Abbey,94,24,41,17
+Northanger Abbey,95,35,46,11
+Northanger Abbey,96,33,30,-3
+Northanger Abbey,97,36,46,10
+Northanger Abbey,98,3,3,0
+Persuasion,0,20,33,13
+Persuasion,1,21,39,18
+Persuasion,2,24,25,1
+Persuasion,3,26,32,6
+Persuasion,4,22,28,6
+Persuasion,5,16,42,26
+Persuasion,6,17,31,14
+Persuasion,7,29,18,-11
+Persuasion,8,11,28,17
+Persuasion,9,15,51,36
+Persuasion,10,38,34,-4
+Persuasion,11,16,37,21
+Persuasion,12,34,31,-3
+Persuasion,13,28,37,9
+Persuasion,14,14,25,11
+Persuasion,15,13,43,30
+Persuasion,16,26,39,13
+Persuasion,17,28,44,16
+Persuasion,18,15,36,21
+Persuasion,19,31,23,-8
+Persuasion,20,26,47,21
+Persuasion,21,30,24,-6
+Persuasion,22,15,34,19
+Persuasion,23,16,27,11
+Persuasion,24,18,26,8
+Persuasion,25,20,33,13
+Persuasion,26,23,36,13
+Persuasion,27,8,28,20
+Persuasion,28,26,30,4
+Persuasion,29,12,30,18
+Persuasion,30,26,35,9
+Persuasion,31,19,27,8
+Persuasion,32,22,28,6
+Persuasion,33,21,34,13
+Persuasion,34,21,31,10
+Persuasion,35,18,39,21
+Persuasion,36,24,25,1
+Persuasion,37,15,32,17
+Persuasion,38,16,34,18
+Persuasion,39,15,48,33
+Persuasion,40,17,36,19
+Persuasion,41,12,51,39
+Persuasion,42,5,25,20
+Persuasion,43,22,12,-10
+Persuasion,44,28,28,0
+Persuasion,45,20,22,2
+Persuasion,46,20,24,4
+Persuasion,47,14,32,18
+Persuasion,48,16,32,16
+Persuasion,49,23,28,5
+Persuasion,50,32,38,6
+Persuasion,51,19,23,4
+Persuasion,52,15,33,18
+Persuasion,53,13,23,10
+Persuasion,54,20,32,12
+Persuasion,55,17,53,36
+Persuasion,56,24,42,18
+Persuasion,57,18,26,8
+Persuasion,58,15,50,35
+Persuasion,59,26,40,14
+Persuasion,60,19,52,33
+Persuasion,61,43,47,4
+Persuasion,62,34,45,11
+Persuasion,63,21,21,0
+Persuasion,64,12,51,39
+Persuasion,65,10,32,22
+Persuasion,66,15,36,21
+Persuasion,67,21,44,23
+Persuasion,68,16,39,23
+Persuasion,69,18,23,5
+Persuasion,70,28,29,1
+Persuasion,71,19,27,8
+Persuasion,72,25,27,2
+Persuasion,73,18,27,9
+Persuasion,74,32,50,18
+Persuasion,75,23,35,12
+Persuasion,76,12,26,14
+Persuasion,77,30,34,4
+Persuasion,78,13,37,24
+Persuasion,79,23,34,11
+Persuasion,80,12,20,8
+Persuasion,81,30,39,9
+Persuasion,82,25,17,-8
+Persuasion,83,15,30,15
+Persuasion,84,23,17,-6
+Persuasion,85,51,43,-8
+Persuasion,86,35,32,-3
+Persuasion,87,30,30,0
+Persuasion,88,21,33,12
+Persuasion,89,9,60,51
+Persuasion,90,18,36,18
+Persuasion,91,11,29,18
+Persuasion,92,21,24,3
+Persuasion,93,22,27,5
+Persuasion,94,16,31,15
+Persuasion,95,15,20,5
+Persuasion,96,21,30,9
+Persuasion,97,18,23,5
+Persuasion,98,33,23,-10
+Persuasion,99,23,32,9
+Persuasion,100,30,34,4
+Persuasion,101,23,40,17
+Persuasion,102,29,58,29
+Persuasion,103,23,54,31
+Persuasion,104,4,1,-3
